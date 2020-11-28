@@ -1,0 +1,38 @@
+.container{
+    margin: 250px auto;
+    border: solid black 1px;
+    width: 300px;
+    text-align: center;
+}
+
+.operationArea{
+    text-align: center;
+	padding: 20px;
+}
+
+.title{
+	background-color:grey;
+    height: 55px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.content{
+    height: 40px;
+    width: 200px;
+    font-size: 30px;
+    text-align: left;
+}
+
+.time{
+    color:red;
+    font-size: 38px;
+}
+
+select, button{
+    border: solid black 1px;
+    border-radius: 5px;
+    height: 30px;
+    width: auto;
+    font-size: 20px;
+}
